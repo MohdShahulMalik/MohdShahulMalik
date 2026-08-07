@@ -33,7 +33,7 @@ Building web applications and developer tools with a focus on type safety and cl
 ### Achievements
 
 - **300+ LeetCode problems** solved (175 Medium, 55 Hard) — strong in dynamic programming, graphs, and trees
-- **564 contributions** in the past year
+- **560+ contributions** in the past year
 - **650+ downloads** on crates.io for XSpring
 - **Open-source contributor** to [**Aye Chat**](https://github.com/acrotron/aye-chat)
 
