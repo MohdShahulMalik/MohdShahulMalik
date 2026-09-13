@@ -1,6 +1,6 @@
 ## Hi, I'm Shahul Malik 👋
 
-Backend-Leaning **Full-Stack Developer** | Rust · TypeScript · React · Tailwind · Leptos · Actix-web
+Backend-Leaning **Full-Stack Developer** specializing in Rust and TypeScript.
 
 Building web applications and developer tools with a focus on type safety and clean architecture.
 
