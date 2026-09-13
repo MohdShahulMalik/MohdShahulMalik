@@ -1,6 +1,6 @@
 ## Hi, I'm Shahul Malik 👋
 
-Backend-Leaning **Full-Stack Developer** specializing in Rust and TypeScript.
+Backend-Leaning **Full-Stack Developer** from Delhi, India, specializing in Rust and TypeScript.
 
 Building web applications and developer tools with a focus on type safety and clean architecture.
 
